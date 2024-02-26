@@ -1,0 +1,17 @@
+# here is the map dimensions
+C-5-8
+# here are the moutains list
+M-0-4
+M-2-5
+M-2-7
+M-4-1
+#comment line test
+ # another line of test
+T-1-2-1
+T-2-4-6
+T-4-1-2
+
+#line of comment
+
+A-Adam-2-3-N-GGADD
+A-Sarah-4-0-E-DGA
